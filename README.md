@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Anirudh Kulkarni — an aspiring full-stack developer with a passion for building scalable web applications and exploring emerging technologies like Web3 and Machine Learning.<br><br>I'm currently learning and experimenting with:<br><br>⚙️ MERN Stack (MongoDB, Express, React, Node.js)<br>🌐 Web3 & Blockchain (Solidity, Smart Co
+Hi, I'm Anirudh Kulkarni — an aspiring full-stack developer with a passion for building scalable web applications and exploring emerging technologies like Web3 and Machine Learning.<br><br>I'm currently learning and experimenting with:<br><br>⚙️ MERN Stack (MongoDB, Express, React, Node.js)<br>🌐 Web3 & Blockchain (Solidity, Smart Contracts, Ethereum)<br>🤖 Machine Learning (Beginner)<br>
+
+🖥️ [Portfolio](https://v0-retro-terminal-website-silk.vercel.app/)
 
 
 ## 🌐 Socials:
